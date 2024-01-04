@@ -1,24 +1,3 @@
----
-jupyter:
-  kernelspec:
-    display_name: base
-    language: python
-    name: python3
-  language_info:
-    codemirror_mode:
-      name: ipython
-      version: 3
-    file_extension: .py
-    mimetype: text/x-python
-    name: python
-    nbconvert_exporter: python
-    pygments_lexer: ipython3
-    version: 3.11.4
-  nbformat: 4
-  nbformat_minor: 2
----
-
-
 # Project Statement
 
 ### The goal of this project is to leverage machine learning methods to analyze data from a set of banks so that a bank can make lending decisions to applicants based on their characteristics (predicting loan eligibility based on client details). The information regarding the loan applications from a set of banks is listed in the file Loan.csv."
